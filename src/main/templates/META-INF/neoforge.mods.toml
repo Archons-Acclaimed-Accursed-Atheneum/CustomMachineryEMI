@@ -63,6 +63,14 @@ versionRange = "${neo_version_range}" #mandatory
 ordering = "NONE"
 # Side this dependency is applied on - BOTH, CLIENT, or SERVER
 side = "BOTH"
+
+[[dependencies."${mod_id}"]]
+modId = "custom_machinery_emi"
+type = "incompatible"
+versionRange = "*"
+ordering = "NONE"
+side = "BOTH"
+
 # Here's another dependency
 [[dependencies."${mod_id}"]]
 modId = "minecraft"

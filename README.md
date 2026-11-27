@@ -1,8 +1,8 @@
-# Custom Machinery EMI
+# Archon's Custom Machinery EMI 
 
-An EMI plugin for [Custom Machinery](https://www.curseforge.com/minecraft/mc-mods/custom-machinery), providing recipe viewing support for all Custom Machinery recipes.
+A fork of an EMI plugin for [Custom Machinery](https://www.curseforge.com/minecraft/mc-mods/custom-machinery), providing recipe viewing support for all Custom Machinery recipes.
 
-(I am playing FTB StoneBLock4 and wannna use the EMI then this just comes)
+I fixed the original code
 
 ## Features
 
@@ -15,3 +15,4 @@ An EMI plugin for [Custom Machinery](https://www.curseforge.com/minecraft/mc-mod
 ## License
 
 MIT License - feel free to use this mod in your modpacks!
+If I ever forget to update it, fork it or tell me to get my shit together and patch
